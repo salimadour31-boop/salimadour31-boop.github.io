@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.salimadour31boop.ostadriyadiyat",
+      "sha256_cert_fingerprints": ["C0:00:9D:6D:9A:57:F8:B1:8A:F2:81:34:AF:5F:E5:12:6A:F6:D4:4D:25:9D:ED:68:58:C6:3B:A7:22:30:17:25"]
+    }
+  }
+]
